@@ -15,11 +15,6 @@ npm run dev
 npm run build
 ```
 
-## 제출 전 변경할 값
-
-- `granite.config.ts`의 `appName`: 앱인토스 콘솔에 등록한 appName
-- `brand.icon`: 콘솔에 업로드한 실제 앱 아이콘 URL
-
 ## 핵심 경험
 
 - 21가지 미션 중 매번 달라지는 7일 여름 조각 수집
