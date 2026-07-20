@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.ait
+.DS_Store
+.granite/
+outputs/
+work/
