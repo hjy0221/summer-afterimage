@@ -4,47 +4,51 @@
 
 ## 日本語
 
-日常の小さな夏の瞬間を毎日見つけ、7つのかけらで自分だけの波を完成させる Apps in Toss のウェブミニアプリです。
+1日10秒、普通の日常で夏の小さな瞬間を発見し、7つの彫刻で自分だけの波を完成するアプリイントスWebミニアプリです。
 
-### 実行
-
-```bash
-npm install
-npm run dev
-```
-
-提出用の `.ait` バンドルは `npm run build` で作成します。
-
-### 主な体験
-
-- 21種類のミッションから選ばれる7日間の収集
-- 直前と収集済みのミッションを避ける毎日の発見画面
-- ローカルストレージによる進行状況の保存
-- サウンド、アクセシビリティラベル、モーション軽減への対応
-
-## English
-
-Summer Afterimage is an Apps in Toss web mini-app that invites users to notice a small summer moment each day and complete a personal wave from seven collected pieces.
-
-### Run locally
+## 実行
 
 ```bash
 npm install
 npm run dev
 ```
 
-Create the `.ait` submission bundle with:
+送信用の`.ait`バンドルは、以下のコマンドで生成されます。
 
 ```bash
 npm run build
 ```
 
-### Core experience
+## コア体験
 
-- A seven-day collection selected from 21 summer missions
-- A daily discovery bottom sheet that avoids the previous and already collected missions
-- Local persistence for progress
-- Sound feedback, accessibility labels, and reduced-motion support
+- 21のミッションの中で毎回変わる7日の夏の彫刻コレクション
+- 直前に見たミッションとすでに集めたミッションを避ける今日の夏発見ボトムシート
+- ローカル保存による進行状況の維持
+- サウンドフィードバック、アクセシビリティラベル、モーション縮小設定対応
+
+## English
+
+For 10 seconds a day, Appintos is a web mini-app that lets you discover small moments of summer in everyday life and complete your own waves with 7 pieces.
+
+## run
+
+```bash
+npm install
+npm run dev
+```
+
+Create a `.ait` bundle for submission with the command below.
+
+```bash
+npm run build
+```
+
+## Core Experience
+
+- Collect 7-day summer pieces that change each time among 21 missions
+- Today's summer discovery bottom sheet, avoiding missions seen just before and missions already collected.
+- Maintain progress through local saving
+- Supports sound feedback, accessibility labels, and motion reduction settings
 
 ## 한국어
 
