@@ -4,6 +4,8 @@
 
 ## 日本語
 
+[日本語](https://github.com/hjy0221/summer-afterimage#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/summer-afterimage#english) · [한국어](https://github.com/hjy0221/summer-afterimage#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 1日10秒、普通の日常で夏の小さな瞬間を発見し、7つの彫刻で自分だけの波を完成するアプリイントスWebミニアプリです。
 
 ## 実行
@@ -28,6 +30,8 @@ npm run build
 
 ## English
 
+[日本語](https://github.com/hjy0221/summer-afterimage#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/summer-afterimage#english) · [한국어](https://github.com/hjy0221/summer-afterimage#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 For 10 seconds a day, Appintos is a web mini-app that lets you discover small moments of summer in everyday life and complete your own waves with 7 pieces.
 
 ## run
@@ -51,6 +55,8 @@ npm run build
 - Supports sound feedback, accessibility labels, and motion reduction settings
 
 ## 한국어
+
+[日本語](https://github.com/hjy0221/summer-afterimage#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/summer-afterimage#english) · [한국어](https://github.com/hjy0221/summer-afterimage#%ED%95%9C%EA%B5%AD%EC%96%B4)
 
 하루 10초, 평범한 일상에서 여름의 작은 순간을 발견하고 7개의 조각으로 나만의 파도를 완성하는 앱인토스 웹 미니앱입니다.
 
